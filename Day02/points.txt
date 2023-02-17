@@ -1,0 +1,136 @@
+Write a python code to generate the following pattern
+
+1 2 3 4 5
+ 1 2 3 4 
+  1 2 3
+   1 2
+    1
+   2 1
+  3 2 1
+ 4 3 2 1
+5 4 3 2 1
+
+
+write a code to generate all prime numbers between 150 and 50 and also print the count of it.
+
+
+Strings
+-------
+"this is a single line string" 
+				
+					or  
+
+'this is a single line string'
+
+
+"""
+	This
+		is 
+		 a
+		 multiline
+				string
+"""
+
+STRINGS ARE IMMUTABLE
+----------------------
+st = "hello world"
+
+st = 10
+
+
+------------------------------------------
+OOPS
+----
+
+class Player:
+
+	def __init__(self, name):
+		self.name = name
+
+	
+
+	# getter method
+	def get_details(self):
+
+		print(f"The name is {self.name}")		# f string or format string
+
+	
+	# setter method
+	def change_name(self, nm):
+		self.name = nm
+
+
+ply1 = Player("Messi")
+
+ply1.get_details()
+
+
+ply1.change_name = "Ronaldo"
+
+ply1.get_details()
+
+
+Data Structures
+----------------
+1. list
+2. dictionary
+3. tuple
+4. set
+
+
+list - similar to arrays
+
+array
+-----
+1. contigious memory allocation
+
+2. collection of homogenous data
+
+
+List
+----
+1. collection of hetrogenous data
+2. memory allocation is not contigious
+3. its an ordered collection
+4. lists are mutable
+5. they are subscriptable (indexed)
+6. lists are enclosed in []
+
+
+funtions used to manipulate lists
+---------------------------------
+'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
