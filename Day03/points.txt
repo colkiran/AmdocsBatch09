@@ -1,0 +1,70 @@
+Dictionary
+----------
+also called as associative array
+
+		0	  1    2    3    4
+
+l = ['a', 'b', 'c', 'd', 'e']
+
+
+d = {0: 'a', 1: 'b', 2: 'c', 3: 'd', 4: 'e'}
+
+
+keys   - 0, 1, 2, 3, 4
+
+values - a, b, c, d, e, f
+
+
+keys can be anything
+
+
+dictionary
+----------
+1. keys are unique
+
+2. unordered collection
+
+3. mutable
+
+4. enclosed in {k1: v1, k2: v2, k3: v3.......}
+
+
+
+'clear', 'copy', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault', 'update', 'values'
+
+
+tuple
+------
+tuple is an immutable list
+
+tuples are enclosed in ()
+
+
+
+Set
+---
+sets are a collection of unique values
+
+sets are not subsrciptable
+
+sets are mutable
+
+sets are unordered collection
+
+sets are enclosed in {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
